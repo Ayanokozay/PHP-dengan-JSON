@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "M. Zainul Ulum",
+        "nim": "20050974028",
+        "kelas": "PTI 2020 B",
+        "jurusan": "Teknik Informatika",
+        "alamat": "Lamongan"
+    },
+
+    {
+        "nama": "Andika Febriansyah",
+        "nim": "20050974060",
+        "kelas": "PTI 2020 B",
+        "jurusan": "Teknik Informatika",
+        "alamat": "Jombang"
+    },
+
+    {
+        "nama": "Bryan Adi Prakoso",
+        "nim": "20050974058",
+        "kelas": "PTI 2020 B",
+        "jurusan": "Teknik Informatika",
+        "alamat": "Surabaya"
+    }
+]
